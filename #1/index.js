@@ -6,4 +6,8 @@ client.once('ready', () => {
     console.log('Bot online!');
 });
 
+client.on('interactionCreate', (interaction) => {
+    console.log(interaction)
+})
+
 client.login('token');
