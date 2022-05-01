@@ -1,0 +1,14 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Il nostro primo bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GB Factory Code",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
